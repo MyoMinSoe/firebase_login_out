@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346019447681",
+    "project_id": "my-mm-bookstore",
+    "storage_bucket": "my-mm-bookstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346019447681:android:0bf643dd87b4907a6c1e80",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMaeZUHsuuYVigc5KMXTTrflgMMhzgNMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
